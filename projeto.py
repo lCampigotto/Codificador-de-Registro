@@ -54,7 +54,3 @@ def codificar_senha(senha):
 
 inputs()
 verificar_login(codificar_usuario(input_usuario), codificar_senha(input_senha))
-    
-
-
-    
